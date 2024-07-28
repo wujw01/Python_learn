@@ -1,0 +1,27 @@
+# 求绝对值
+abs(-12)
+print(abs(-12));
+
+print(max(1,2));
+
+print(int('123'));
+print(int(12.34));
+
+print(float('12.34'))
+print(str(1.23))
+print(bool(1))
+
+
+n1=255;
+n2=1000;
+print(hex(n1))
+print(hex(n2))
+
+# 函数名其实就是指向一个函数对象的引用
+
+a=abs
+print(a(-1))
+
+
+
+
